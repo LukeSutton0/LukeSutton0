@@ -24,12 +24,15 @@ Feel free to have a look around at some of the things I have worked on over the 
 
 React Experimenting → Portfolio → Quiz Webapp
 
+<br>
 
+**2023 Grad Dissertation**
 
+[Stock Prediction (AI)](https://github.com/LukeSutton0/Stock-Prediction-using-Machine-Learning-and-AI)
 
 <br>
 
-A few stats:
+**A few stats:**
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeSutton0&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
