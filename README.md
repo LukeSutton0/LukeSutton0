@@ -17,7 +17,7 @@ Feel free to have a look around at some of the things I have worked on over the 
 **Currently Working On:**
 
 Internet.compare
-[internet.compare](https://internet.compare/)
+(https://internet.compare/)
 
 [React Experimenting](https://github.com/LukeSutton0/react-experimenting)
 
