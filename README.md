@@ -16,15 +16,12 @@ Feel free to have a look around at some of the things I have worked on over the 
 
 **Currently Working On:**
 
-Internet.compare
-(https://internet.compare/)
-
-[React Experimenting](https://github.com/LukeSutton0/react-experimenting)
+Quiz Webapp
 
 
 **Roadmap**
 
-React Experimenting → Portfolio
+Quiz Webapp → Portfolio
 
 <br>
 
