@@ -1,6 +1,6 @@
 **Hi there, I'm Luke.**
 
-Feel free to have a look around at some of the things I have worked on over the last few years.
+Feel free to have a look around at some of the things I've worked on over the last few years.
 
 <br>
 
